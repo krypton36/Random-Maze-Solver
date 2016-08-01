@@ -13,11 +13,11 @@ Compile and Run
 -----------------------------------------------------------------------
 How to use
 -----------------------------------------------------------------------
-1) Reset will reset the board to a blank board.
-2) Mark slowly will mark the paths that are going into the queue.
-3) Mark will immediately mark all paths even if mark slowly is running.
-4) Stop will halt the program and cause it to need to be reset.
-5) Show Shortest Path after marking the positions will show the shortest path.
+1) Reset will reset the board to a blank board.</br>
+2) Mark slowly will mark the paths that are going into the queue.</br>
+3) Mark will immediately mark all paths even if mark slowly is running.</br>
+4) Stop will halt the program and cause it to need to be reset.</br>
+5) Show Shortest Path after marking the positions will show the shortest path.<br>
 
 -----------------------------------------------------------------------
 Summary
