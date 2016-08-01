@@ -3,12 +3,12 @@
 -----------------------------------------------------------------------
 Compile and Run
 -----------------------------------------------------------------------
-1) Open a command prompt.
-2) Clone this repo.
-3) Compile using java.
-% javac MazeSolver.java
-4) Run program.
-% java MazeSolver
+1) Open a command prompt.</br>
+2) Clone this repo.</br>
+3) Compile using java.</br>
+% javac MazeSolver.java.</br>
+4) Run program.</br>
+% java MazeSolver.</br>
 </br>
 -----------------------------------------------------------------------
 How to use
